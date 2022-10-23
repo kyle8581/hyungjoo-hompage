@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Bighetti 吳恩達
+title: Hyungjoo Chae
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Bighetti
+first_name: Chae
+last_name: Hyungjoo
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Yonsei University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,15 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: B.S. in Computer Science
+      institution: Yonsei University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
