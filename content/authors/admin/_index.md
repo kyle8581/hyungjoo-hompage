@@ -74,4 +74,4 @@ highlight_name: true
 I am a linked B.S. and M.S. student at Yonsei University. My research insterests include dialogue agent, task-oriented dialogue, and commonsense reasoning. Also I love solving real life problems.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
