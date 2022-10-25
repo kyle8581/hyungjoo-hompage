@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2022.coling-1.548/'\
+url_pdf: 'https://aclanthology.org/2022.coling-1.548/'
 url_video: 'https://youtu.be/WTK1Yla_Z_o'
 
 
