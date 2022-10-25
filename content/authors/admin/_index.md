@@ -15,10 +15,10 @@ role: Professor of Artificial Intelligence
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Yonsei University
-    url: https://www.stanford.edu/
+    url: https://www.yonsei.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Dialogue Agent, Commonsense Reasoning and In-context learning.
 
 # Interests to show in About widget
 interests:
@@ -29,9 +29,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: B.S. in Computer Science
+    - course: Linked B.S. and M.S. Program in Computer Science
       institution: Yonsei University
-      year: 2012
+      year: 2019
     
 
 # Social/Academic Networking
@@ -71,9 +71,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am a linked B.S. and M.S. student at Yonsei University. My research insterests include dialogue agent, task-oriented dialogue, and commonsense reasoning. Also I love solving real life problems.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
