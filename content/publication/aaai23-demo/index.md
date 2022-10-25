@@ -16,11 +16,11 @@ authors:
 
 
 
-date: '2023-10-01T00:00:00Z'
+date: '2022-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023-10-01T00:00:00Z'
+publishDate: '2022-10-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -35,7 +35,7 @@ publication_short: In Proceedings of *AAAI*
 abstract: In this paper, we propose Tutoring bot, a generative chatbot trained on a large scale of tutor-student conversations for English-language learning. To mimic a human tutor's behavior in language education, the tutor bot leverages diverse educational instructions and grounds to each instruction as additional input context for the tutor response generation. As a single instruction generally involves multiple dialogue turns to give the student sufficient speaking practice, the tutor bot is required to monitor and capture when the current instruction should be kept or switched to the next instruction. For that, the tutor bot is learned to not only generate responses but also infer its teaching action and progress on the current conversation simultaneously by a multi-task learning scheme. Our Tutoring bot is deployed under a non-commercial use license at https://tutoringai.com.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we propose Tutoring bot, a generative chatbot trained on a large scale of tutor-student conversations for English-language learning.
 
 tags: []
 
@@ -47,7 +47,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://aclanthology.org/2022.coling-1.548/'
+url_pdf: 'https://aclanthology.org/2022.coling-1.548/'\
+url_video: 'https://youtu.be/WTK1Yla_Z_o'
 
 
 # Featured image
