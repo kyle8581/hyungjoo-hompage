@@ -22,9 +22,9 @@ bio: My research interests include Dialogue Agent, Commonsense Reasoning and In-
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Dialogue Systems
+  - Task-Oriented Dialgues
+  - Commonsense Reasoning
 
 # Education to show in About widget
 education:
