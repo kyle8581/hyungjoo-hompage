@@ -26,7 +26,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: mapoout@yonsei.ac.kr
-  phone: 888 888 88 88
+  phone: (+82)10-2696-8581
   address:
     street: 450 Serra Mall
     city: Stanford
