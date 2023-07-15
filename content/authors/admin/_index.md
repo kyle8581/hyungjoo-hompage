@@ -3,14 +3,14 @@
 title: Hyungjoo Chae
 
 # Full name (for SEO)
-first_name: Chae
-last_name: Hyungjoo
+first_name: Hyungjoo
+last_name: Chae
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Linked B.S. and M.S. student
+role:  M.S. student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -44,13 +44,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/hyungjoochae 
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?hl=en&authuser=4&user=xNxPm-IAAAAJ
+    link: https://scholar.google.com/citations?user=xNxPm-IAAAAJ&hl=en 
   - icon: github
     icon_pack: fab
     link: https://github.com/kyle8581
@@ -66,7 +66,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mapoout@yonsei.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
