@@ -6,8 +6,8 @@ title: 'Coffee: Boost Your Code LLMs by Fixing Bugs with Feedback'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Seungjun Moon
-  - Yongho Song
   - Hyungjoo Chae
+  - Yongho Song
   - Dongjin Kang
   - Taeyoon Kwon
   - Kai Tzu-iunn Ong
