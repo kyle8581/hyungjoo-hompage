@@ -22,9 +22,9 @@ bio: My research interests include Dialogue Agent, Commonsense Reasoning and In-
 
 # Interests to show in About widget
 interests:
-  - Dialogue Systems
-  - Task-Oriented Dialgues
-  - Commonsense Reasoning
+  - LLM-based Autonomous Agent
+  - Improving Reasoning Abilities of LLMs
+  - Knowledge-augmented Language Models
 
 # Education to show in About widget
 education:
