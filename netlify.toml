@@ -19,3 +19,12 @@
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
     debug = true
+  
+[[redircts]]
+  from = "/"
+  to = "https://hyungjoochae.netlify.com"
+  force = true
+  status = 200
+  headers = {X-From = "Netlify"}
+
+

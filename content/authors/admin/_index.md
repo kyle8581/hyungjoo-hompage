@@ -24,7 +24,7 @@ highlight_name: true
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Language & AGI Lab, Yonsei University | LG AI Research
+  - name: PhD student at Georgia Institute of Technology | Prev. Yonsei University,  LG AI Research
     url: https://langlab.yonsei.ac.kr/
 
 # Social network links

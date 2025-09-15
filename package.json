@@ -1,0 +1,25 @@
+{
+  "name": "hyungjoo-hompage",
+  "version": "1.0.0",
+  "description": "[![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kyle8581/hyungjoo-hompage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kyle8581/hyungjoo-hompage/issues"
+  },
+  "homepage": "https://github.com/kyle8581/hyungjoo-hompage#readme",
+  "dependencies": {
+    "@tailwindcss/typography": "^0.5.16",
+    "tailwindcss": "^4.1.13"
+  }
+}
